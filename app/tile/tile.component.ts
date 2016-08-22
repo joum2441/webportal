@@ -4,7 +4,7 @@ import { Component, OnInit } from '@angular/core';
     selector: 'tile',
     templateUrl: 'tile.component.html'
 })
-export class Tile implements OnInit {
+export class TileComponent implements OnInit {
     constructor() { }
 
     ngOnInit() { }

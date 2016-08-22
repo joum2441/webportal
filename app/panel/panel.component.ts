@@ -4,7 +4,7 @@ import { Component, OnInit } from '@angular/core';
     selector: 'panel',
     templateUrl: 'panel.component.html'
 })
-export class Panel implements OnInit {
+export class PanelComponent implements OnInit {
     constructor() { }
 
     ngOnInit() { }
